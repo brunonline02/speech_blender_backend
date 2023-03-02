@@ -1,7 +1,6 @@
 # Social Audio - Backend
 
 This project is the backend for a social media platform that allows users to share and discover audio clips. The backend is built using Node.js and Express, a popular web framework for Node.js.
-Features
 
 ### Some of the key features of this application include:
 
